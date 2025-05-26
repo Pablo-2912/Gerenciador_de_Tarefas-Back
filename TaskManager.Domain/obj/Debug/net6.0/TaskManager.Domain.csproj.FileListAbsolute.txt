@@ -1,0 +1,11 @@
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.deps.json
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.dll
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.pdb
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.AssemblyInfoInputs.cache
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.AssemblyInfo.cs
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.dll
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\obj\Debug\net6.0\refint\TaskManager.Domain.dll
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.pdb
+C:\Users\soap\source\Workspaces\TaskManagement\TaskManager.Domain\obj\Debug\net6.0\ref\TaskManager.Domain.dll

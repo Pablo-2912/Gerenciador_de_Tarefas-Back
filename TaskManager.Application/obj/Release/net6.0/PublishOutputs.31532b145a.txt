@@ -1,0 +1,5 @@
+C:\Users\soap\source\Workspaces\TaskManagement\publish\TaskManager.Application.dll
+C:\Users\soap\source\Workspaces\TaskManagement\publish\TaskManager.Application.deps.json
+C:\Users\soap\source\Workspaces\TaskManagement\publish\TaskManager.Application.pdb
+C:\Users\soap\source\Workspaces\TaskManagement\publish\TaskManager.Domain.dll
+C:\Users\soap\source\Workspaces\TaskManagement\publish\TaskManager.Domain.pdb
